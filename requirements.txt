@@ -1,0 +1,8 @@
+mesa
+agentpy
+openai
+matplotlib
+plotly
+bokeh
+streamlit
+pandas
